@@ -40,6 +40,12 @@ Data Exploration and Visualization: Various questions aimed at achieving the pro
 In this analysis, we have uncovered several key findings that provide valuable insights into the company's sales and customer behavior. These findings shed light on the company's performance, consumer preferences, and potential areas for optimization. Let's delve into each of these findings to gain a deeper understanding of their implications and how they can influence the company's business strategies.
 
 1. **Best Month for Sales (December):**
+   <img width="292" alt="monthsale" src="https://github.com/BvernyuyN/sales-analysis-/assets/149203833/afe4396f-b500-465f-a813-96875b50ec3e">
+<img width="295" alt="city" src="https://github.com/BvernyuyN/sales-analysis-/assets/149203833/5cbbfa78-aa18-48cb-ac77-b223bc3f3139">
+<img width="267" alt="ad" src="https://github.com/BvernyuyN/sales-analysis-/assets/149203833/44914552-db40-4953-8e6c-8c8099c1ed0d">
+<img width="384" alt="prod combo" src="https://github.com/BvernyuyN/sales-analysis-/assets/149203833/52ed50f3-9496-4414-85d1-a257f759a565">
+<img width="295" alt="hihest goods sold" src="https://github.com/BvernyuyN/sales-analysis-/assets/149203833/183f3b18-65d6-4ae3-9e8c-dd2bdeff9549">
+
 December stands out as the best month for sales, generating $4.6 million in revenue. This can be attributed to increased consumer spending during the holiday season, where people are more inclined to purchase gifts, gadgets, and other products.This finding suggests a clear seasonality effect on the company's sales performance.
 **Possible Reasons:** December typically experiences high consumer demand due to holidays like Christmas and New Year. Customers are more willing to make purchases, and the company can take advantage of this trend through targeted marketing campaigns and promotions.
 
