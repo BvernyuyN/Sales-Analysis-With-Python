@@ -27,14 +27,18 @@ The columns used for analysis in the dataset include:
 - **Sales:** Calculated as the product of the quantity ordered and the price each.
 
 **Step 1 Data collection:**
-Monthly sales data that spand a period of 12 months was downloaded from []Dataset](https://drive.google.com/drive/folders/1RZsJUDSCs6FR51qhPfbPdqORwSKhQMgX?usp=drive_link)  this data was merge to a single csv file and named yearly_sales_data.csv this new datase was renamed as df and loaded using pandas  pd.read_csv () function 
+Monthly sales data that spand a period of 12 months was downloaded from [Dataset](https://drive.google.com/drive/folders/1RZsJUDSCs6FR51qhPfbPdqORwSKhQMgX?usp=drive_link)  this data was merge to a single csv file and named yearly_sales_data.csv this new datase was renamed as df and loaded using pandas  pd.read_csv () function 
+
 **Step 2 Data verification :**
 To verify the readiness of this dataset for analysis, the .head(), .shape, .info(), .isna() methods were used to verify by check the head, shape, info, and missing values
+
 **Step 3 Data cleaning:**
 Missing values were dropped, and additional columns like 'Month,' 'Sales,' 'City,' 'Hour,' 'Minute,' and 'Count' were added to the dataset.
+
 **Step 4 Exploratory Data Analysis:**
 Various questions aimed at achieving the project's objectives were answered and visualized using horizontal and vertical bar charts, line graphs, and Matplotlib. Functions like groupby, sum, max, and idxmax were commonly used.
-[A detailed notebook](https://github.com/BvernyuyN/sales-analysis-/blob/main/sales_analysis.ipynb)
+For more detailed insights and the complete analysis, please refer to the detailed notebook in my [GitHub repository](https://github.com/BvernyuyN/sales-analysis-/blob/main/sales_analysis.ipynb).
+
 
 **Findings insights and posible recommendations**
 
@@ -226,8 +230,7 @@ These findings and recommendations provide a data-driven roadmap to enhance our 
 
 The Sales Analysis Project demonstrates the power of data analytics in gaining a deeper understanding of our business's dynamics. As we continue to refine and implement these recommendations, we are poised for a brighter and more successful future in the world of sales.
 
-For more detailed insights and the complete analysis, please refer to the detailed notebook in our GitHub repository.
-
+For more detailed insights and the complete analysis, please refer to the detailed notebook in my [GitHub repository](https://github.com/BvernyuyN/sales-analysis-/blob/main/sales_analysis.ipynb).
 
 
 
