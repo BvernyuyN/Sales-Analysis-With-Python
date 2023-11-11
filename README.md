@@ -1,4 +1,4 @@
-# sales-analysis project
+# Sales-Analysis Project
 The Sales Analysis Project is a comprehensive data analytics endeavor aimed at understanding and optimizing the sales performance of a business. By harnessing the power of data, this project provides actionable insights into various aspects of sales, including the best-performing months, top-selling products, geographical sales distribution, and customer behavior.
 
 Key objectives of the project include:
