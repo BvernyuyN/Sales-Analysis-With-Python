@@ -1,4 +1,5 @@
 # Sales-Analysis Project
+![photo_2023-11-14_21-49-19](https://github.com/BvernyuyN/Sales-Analysis-With-Python/assets/149203833/089922d6-87c2-4340-942b-fcea51885ef7)
 The Sales Analysis Project is a comprehensive data analytics endeavor aimed at understanding and optimizing the sales performance of a business. By harnessing the power of data, this project provides actionable insights into various aspects of sales, including the best-performing months, top-selling products, geographical sales distribution, and customer behavior.
 
 Key objectives of the project include:
