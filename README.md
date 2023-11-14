@@ -37,7 +37,7 @@ Missing values were dropped, and additional columns like 'Month,' 'Sales,' 'City
 
 **Step 4 Exploratory Data Analysis:**
 Various questions aimed at achieving the project's objectives were answered and visualized using horizontal and vertical bar charts, line graphs, and Matplotlib. Functions like groupby, sum, max, and idxmax were commonly used.
-For more detailed insights and the complete analysis, please refer to the detailed notebook in my [GitHub repository](https://github.com/BvernyuyN/sales-analysis-/blob/main/sales_analysis.ipynb).
+For more detailed insights and the complete analysis, please refer to the detailed notebook [here](https://github.com/BvernyuyN/sales-analysis-/blob/main/sales_analysis.ipynb).
 
 
 **Findings insights and posible recommendations**
@@ -158,7 +158,7 @@ This finding highlights the importance of timing in capturing the attention of p
 
 4. **A/B Testing:** Implement A/B testing to measure the performance of ads during these hours and refine strategies over time. Monitor key performance indicators (KPIs) such as click-through rates, conversions, and return on investment (ROI).
 
-By capitalizing on these findings and recommendations, the business can enhance its advertising effectiveness during the identified peak and effective hours, leading to increased engagement and potentially higher sales.
+With these findings and recommendations, the business can enhance its advertising effectiveness during the identified peak and effective hours, leading to increased engagement and potentially higher sales.
 
 
 4. **Frequently Purchased Product Combinations (iPhone and Lightning Charger Cable):**
@@ -230,7 +230,7 @@ These findings and recommendations provide a data-driven roadmap to enhance our 
 
 The Sales Analysis Project demonstrates the power of data analytics in gaining a deeper understanding of our business's dynamics. As we continue to refine and implement these recommendations, we are poised for a brighter and more successful future in the world of sales.
 
-For more detailed insights and the complete analysis, please refer to the detailed notebook in my [GitHub repository](https://github.com/BvernyuyN/sales-analysis-/blob/main/sales_analysis.ipynb).
+For more detailed insights and the complete analysis, please refer to the detailed notebook in my [here](https://github.com/BvernyuyN/sales-analysis-/blob/main/sales_analysis.ipynb).
 
 
 
